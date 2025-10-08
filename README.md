@@ -1,3 +1,3 @@
-## Greetings! This is my lovely github where you can see my projects succeed, and/or fail spectacularly. I'm still pretty new, so not lots of projects from me.
-
-(README to be changed soon)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoubledDoge&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DoubledDoge&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Contribution Stats](https://streak-stats.demolab.com?user=DoubledDoge&theme=tokyonight&hide_border=true)
