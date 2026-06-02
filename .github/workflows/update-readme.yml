@@ -1,0 +1,47 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "40 4 * * 6"
+  workflow_dispatch:
+
+jobs:
+  update-github-activity:
+    name: Update README with GitHub Activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          GH_USERNAME: ${{ github.actor }}
+          COMMIT_NAME: "GitHub Activity Readme"
+          COMMIT_MSG: "Update README with the recent activity"
+          MAX_LINES: 10
+          TARGET_FILE: README.md
+          EMPTY_COMMIT_MSG: "No recent activity to update the README"
+
+  update-wakatime-stats:
+    name: Update README with WakaTime Stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_EDITORS: "True"
+          COMMIT_MESSAGE: "Update README with WakaTime stats"
+          COMMIT_USERNAME: "github-actions[bot]"
