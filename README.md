@@ -150,6 +150,79 @@ favourite games:
 ## :zap: My Schedule & Other Stuff
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.15%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 12.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 195 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+🌆 Daytime                1161 commits        ██████████░░░░░░░░░░░░░░░   41.52 % 
+🌃 Evening                1078 commits        ██████████░░░░░░░░░░░░░░░   38.56 % 
+🌙 Night                  238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   108 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Tuesday                  241 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Wednesday                520 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Thursday                 420 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Friday                   532 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Saturday                 636 commits         ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Sunday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C#** 
+
+```text
+C#                       3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Shell                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Svelte                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/DoubledDoge/DoubledDoge/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/06/2026 21:12:20 UTC
 <!--END_SECTION:waka-->
 
 ---
