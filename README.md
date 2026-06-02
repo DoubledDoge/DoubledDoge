@@ -81,7 +81,7 @@ favourite games:
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DoubledDoge&theme=tokyonight&hide_border=true&card_width=700)
+![GitHub Streak](https://raw.githubusercontent.com/DoubledDoge/DoubledDoge/main/images/streak.svg)
 
 <br/>
 

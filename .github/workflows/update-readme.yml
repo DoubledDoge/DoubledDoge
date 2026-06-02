@@ -3,6 +3,9 @@ name: Update README
 on:
   schedule:
     - cron: "40 4 * * 6"
+  push:
+    paths:
+      - ".github/workflows/update-readme.yml"
   workflow_dispatch:
 
 jobs:
@@ -45,3 +48,24 @@ jobs:
           SHOW_EDITORS: "True"
           COMMIT_MESSAGE: "Update README with WakaTime stats"
           COMMIT_USERNAME: "github-actions[bot]"
+
+  update-streak-stats:
+    name: Update Streak Stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&disable_animations=true
+          path: images/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add i/streak.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
