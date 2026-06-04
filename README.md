@@ -281,7 +281,7 @@ Svelte                   1 repo              ████░░░░░░░�
   <td align="center" width="200">
 
 ![Surprised Dog](/images/surprised-dog.gif)
-<sub><b>seeing </b></sub>
+<sub><b>seeing spaghetti code for the first time</b></sub>
 
   </td>
 </tr>
