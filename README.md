@@ -228,8 +228,8 @@ Svelte                   1 repo              ████░░░░░░░�
 ## :sparkles: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44334](https://github.com/timburgan/timburgan/issues/44334) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. 🗣 Commented on [#25](https://github.com/DoubledDoge/typeguard/pull/25#issuecomment-4642307642) in [DoubledDoge/typeguard](https://github.com/DoubledDoge/typeguard)
+1. ❌ Closed PR [#2](https://github.com/DoubledDoge/peerly-website/pull/2) in [DoubledDoge/peerly-website](https://github.com/DoubledDoge/peerly-website)
+2. ❗ Opened issue [#44334](https://github.com/timburgan/timburgan/issues/44334) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </div>
