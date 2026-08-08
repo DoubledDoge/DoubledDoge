@@ -150,13 +150,13 @@ favourite games:
 ## :zap: My Schedule & Other Stuff
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 39.1 kB Used in GitHub's Storage 
+> 📦 39.2 kB Used in GitHub's Storage 
  > 
-> 🏆 360 Contributions in the Year 2026
+> 🏆 362 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -167,21 +167,21 @@ favourite games:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-🌆 Daytime                1271 commits        ███████████░░░░░░░░░░░░░░   42.18 % 
-🌃 Evening                1159 commits        ██████████░░░░░░░░░░░░░░░   38.47 % 
-🌙 Night                  247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+🌞 Morning                298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+🌆 Daytime                1122 commits        ██████████░░░░░░░░░░░░░░░   40.83 % 
+🌃 Evening                1085 commits        ██████████░░░░░░░░░░░░░░░   39.48 % 
+🌙 Night                  243 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   160 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Tuesday                  254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Wednesday                543 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Thursday                 445 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Friday                   563 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Saturday                 678 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Sunday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Monday                   111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Tuesday                  213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Wednesday                524 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Thursday                 406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Friday                   507 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Saturday                 651 commits         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Sunday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 ```
 
 
@@ -226,7 +226,7 @@ Svelte                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DoubledDoge/DoubledDoge/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 07:09:02 UTC
+ Last Updated on 08/08/2026 05:23:08 UTC
 <!--END_SECTION:waka-->
 
 ---
