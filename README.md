@@ -85,8 +85,6 @@ favourite games:
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DoubledDoge&theme=tokyo-night&hide_border=true&area=true&area_color=1f6feb)
-
 </div>
 
 ---
