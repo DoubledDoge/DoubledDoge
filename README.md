@@ -67,7 +67,7 @@
 
 <div align="center">
 
-  ![GitHub Streak](/assets/streak.svg)
+  ![GitHub Streak](https://raw.githubusercontent.com/DoubledDoge/DoubledDoge/main/assets/streak.svg)
 
 </div>
 
@@ -262,7 +262,7 @@ Svelte                   1 repo              ███░░░░░░░░�
   ██████╔╝╚██████╔╝╚██████╔╝██████╔╝███████╗███████╗██████╔╝██████╔╝╚██████╔╝╚██████╔╝███████╗
   ╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝
   ```
-  
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&section=footer" width="100%"/>
