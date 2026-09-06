@@ -1,4 +1,4 @@
-name: Update README
+name: Update Profile README
 
 on:
   schedule:
@@ -8,33 +8,36 @@ on:
       - ".github/workflows/update-readme.yml"
   workflow_dispatch:
 
+concurrency:
+  group: update-profile-readme
+  cancel-in-progress: false
+
 jobs:
-  update-github-activity:
-    name: Update README with GitHub Activity
+  update-profile-readme:
+    name: Update Profile README
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update GitHub activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          GH_USERNAME: ${{ github.actor }}
+          GH_USERNAME: ${{ github.repository_owner }}
           COMMIT_NAME: "GitHub Activity Readme"
-          COMMIT_MSG: "Update README with the recent activity"
+          COMMIT_MSG: "Update README with recent activity"
           MAX_LINES: 10
           TARGET_FILE: README.md
           EMPTY_COMMIT_MSG: "No recent activity to update the README"
 
-  update-wakatime-stats:
-    name: Update README with WakaTime Stats
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: anmol098/waka-readme-stats@master
+      - name: Update WakaTime stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -49,23 +52,18 @@ jobs:
           COMMIT_MESSAGE: "Update README with WakaTime stats"
           COMMIT_USERNAME: "github-actions[bot]"
 
-  update-streak-stats:
-    name: Update Streak Stats
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&disable_animations=true
-          path: images/streak.svg
+          path: assets/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add images/streak.svg
-          git commit -m "Update streak stats" || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -m "Update streak stats"
           git push
