@@ -32,7 +32,7 @@
   ```yaml
   full_name: Dihan Britz
   title: Third year IT student
-  age: 20
+  age: 21
   gender: male
   country: South Africa
   status: Just Chilling (It never updates)
@@ -50,7 +50,7 @@
     - Super Mario Galaxy (1/2)
     - Clair Obscur: Expedition 33
     - Final Fantasy 10
-    - Omori
+    - Trails in the Sky 2nd Chapter (Remake)
   ```
 
   </td>
@@ -79,108 +79,15 @@
 
 ### Languages & Tech
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,js,ts,html,css,cpp,mysql,java,php,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,js,ts,html,css,cpp,mysql,java,php,kotlin,bash,&theme=dark)](https://skillicons.dev)
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,pnpm,webstorm,&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,pnpm,webstorm,androidstudio,vite,gradle&theme=dark)](https://skillicons.dev)
 
 ### Operating Systems
 
 [![Linux Distro](https://skillicons.dev/icons?i=arch,debian,windows&theme=dark)](https://skillicons.dev)
-
-## :zap: My Schedule & Other Stuff
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.14%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 39.3 kB Used in GitHub's Storage 
- > 
-> 🏆 392 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-🌆 Daytime                1206 commits        ███████████░░░░░░░░░░░░░░   42.15 % 
-🌃 Evening                1100 commits        ██████████░░░░░░░░░░░░░░░   38.45 % 
-🌙 Night                  244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Tuesday                  218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Wednesday                532 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Thursday                 430 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Friday                   523 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Saturday                 662 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Sunday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Johannesburg
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       4 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Svelte                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/DoubledDoge/DoubledDoge/main/assets/bar_graph.png)
-
-
- Last Updated on 06/09/2026 13:22:55 UTC
-<!--END_SECTION:waka-->
-
-## :sparkles: Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. ❌ Closed PR [#2](https://github.com/DoubledDoge/peerly-website/pull/2) in [DoubledDoge/peerly-website](https://github.com/DoubledDoge/peerly-website)
-2. ❗ Opened issue [#44334](https://github.com/timburgan/timburgan/issues/44334) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-
-<!--END_SECTION:activity-->
 
 ## :dog: Dog Gifs I've Collected
 
