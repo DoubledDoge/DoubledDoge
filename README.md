@@ -37,9 +37,9 @@
   country: South Africa
   status: Just Chilling (It never updates)
   currently_learning:
-    - Getting a simple api working
-    - Working with a C# GUI Framework
     - How to stop procrastinating
+    - I guess I'm trying to align the website with this readme still
+    - Surprisingly nothing else serious at the moment
   hobbies:
     - Hiking & Camping whenever I feel like it
     - Reading up on coding tutorials
