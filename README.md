@@ -153,7 +153,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-DoubledDoge-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/DoubledDoge)
   [![Discord](https://img.shields.io/badge/Discord-DoubledDoge-5865f2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/1186273583547297804)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dihan%20Britz-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/dihan-britz/)
-  [![Gravatar](https://img.shields.io/badge/Gravatar-DoubledDoge-1e8a4c?style=for-the-badge&logo=gravatar&logoColor=white&labelColor=0d1117)](https://gravatar.com/stellarfun308e7e5f8f)
+  [![Gravatar](https://img.shields.io/badge/Gravatar-DoubledDoge-1e8a4c?style=for-the-badge&logo=gravatar&logoColor=white&labelColor=0d1117)](https://gravatar.com/doubleddoge)
 
 </div>
 
