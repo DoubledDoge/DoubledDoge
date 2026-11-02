@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  ![Calm Dog](/assets/dogs/calm-dog.gif)
+  ![Calm Dog](assets/dogs/calm-dog.gif)
 
 </div>
 
@@ -22,7 +22,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/DoubledDoge?style=for-the-badge&color=1f6feb&labelColor=0d1117&logo=github)](https://github.com/DoubledDoge)
   [![GitHub Stars](https://img.shields.io/github/stars/DoubledDoge?style=for-the-badge&color=1f6feb&labelColor=0d1117&logo=github)](https://github.com/DoubledDoge)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doubleddoge&theme=tokyonight&animation=load&duration=2&name=DoubledDoge)
+  ![Profile Details](profile-summary-card-output/tokyonight/0-profile-details.svg)
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
@@ -65,19 +65,19 @@
 
   <td>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DoubledDoge&theme=tokyonight" alt="Most used language" width="400"/>
+  ![Top Language By Commit](profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DoubledDoge&theme=tokyonight" alt="GitHub statistics" width="400"/>
+  ![GitHub Statistics](profile-summary-card-output/tokyonight/3-stats.svg)
 
   </td>
   </tr>
 </table>
 
-## :bar_chart: My GitHub Stats
+## :bar_chart: My GitHub Streak
 
 <div align="center">
 
-  [![GitHub Streak](./assets/streak.svg)](https://git.io/streak-stats)
+  [![GitHub Streak](assets/streak.svg)](https://git.io/streak-stats)
 
 </div>
 
@@ -111,21 +111,21 @@
   <tr align="center">
   <td width="200">
 
-  ![Coder Dog](/assets/dogs/coder-dog.gif)
+  ![Coder Dog](assets/dogs/coder-dog.gif)
   <sub><b>me @ 7am</b></sub>
 
   </td>
 
   <td width="200">
 
-  ![Angy Dog](/assets/dogs/angy-dog.gif)
+  ![Angy Dog](assets/dogs/angy-dog.gif)
   <sub><b>breaking production code in real time</b></sub>
 
   </td>
 
   <td width="200">
 
-  ![Confused Dog](/assets/dogs/confused-dog.gif)
+  ![Confused Dog](assets/dogs/confused-dog.gif)
   <sub><b>questioning my life choices</b></sub>
 
   </td>
@@ -134,14 +134,14 @@
   <tr align="center">
   <td>
 
-  ![Blank Dog](/assets/dogs/blank-dog.gif)
+  ![Blank Dog](assets/dogs/blank-dog.gif)
   <sub><b>"just one more hour to go"</b></sub>
 
   </td>
 
   <td>
 
-  ![Scared Dog](/assets/dogs/scared-dog.gif)
+  ![Scared Dog](assets/dogs/scared-dog.gif)
   <sub><b>me on my first interview</b></sub>
 
   </td>
@@ -149,7 +149,7 @@
   
   <td>
 
-  ![Surprised Dog](/assets/dogs/surprised-dog.gif)
+  ![Surprised Dog](assets/dogs/surprised-dog.gif)
   <sub><b>seeing spaghetti code for the first time</b></sub>
 
   </td>
