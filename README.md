@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  ![Calm Dog](/assets/calm-dog.gif)
+  ![Calm Dog](/assets/dogs/calm-dog.gif)
 
 </div>
 
@@ -21,6 +21,14 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=DoubledDoge&style=for-the-badge&color=1f6feb&labelColor=0d1117)](https://github.com/DoubledDoge)
   [![GitHub followers](https://img.shields.io/github/followers/DoubledDoge?style=for-the-badge&color=1f6feb&labelColor=0d1117&logo=github)](https://github.com/DoubledDoge)
   [![GitHub Stars](https://img.shields.io/github/stars/DoubledDoge?style=for-the-badge&color=1f6feb&labelColor=0d1117&logo=github)](https://github.com/DoubledDoge)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doubleddoge&theme=tokyonight&animation=load&duration=2&name=DoubledDoge)
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+  <img alt="github-snake" src="assets/github-snake.svg" />
+  </picture>
 
 </div>
 
@@ -65,9 +73,11 @@
   </tr>
 </table>
 
+## :bar_chart: My GitHub Stats
+
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DoubledDoge&theme=tokyonight&hide_border=true&timezone=SAST&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](./assets/streak.svg)](https://git.io/streak-stats)
 
 </div>
 
@@ -79,7 +89,7 @@
 
 ### Languages & Tech
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,js,ts,html,css,cpp,mysql,java,php,kotlin,bash,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,js,ts,html,css,cpp,mysql,java,php,kotlin,bash&theme=dark)](https://skillicons.dev)
 
 ### Tools
 
@@ -101,21 +111,21 @@
   <tr align="center">
   <td width="200">
 
-  ![Coder Dog](/assets/coder-dog.gif)
+  ![Coder Dog](/assets/dogs/coder-dog.gif)
   <sub><b>me @ 7am</b></sub>
 
   </td>
 
   <td width="200">
 
-  ![Angy Dog](/assets/angy-dog.gif)
+  ![Angy Dog](/assets/dogs/angy-dog.gif)
   <sub><b>breaking production code in real time</b></sub>
 
   </td>
 
   <td width="200">
 
-  ![Confused Dog](/assets/confused-dog.gif)
+  ![Confused Dog](/assets/dogs/confused-dog.gif)
   <sub><b>questioning my life choices</b></sub>
 
   </td>
@@ -124,14 +134,14 @@
   <tr align="center">
   <td>
 
-  ![Blank Dog](/assets/blank-dog.gif)
+  ![Blank Dog](/assets/dogs/blank-dog.gif)
   <sub><b>"just one more hour to go"</b></sub>
 
   </td>
 
   <td>
 
-  ![Scared Dog](/assets/scared-dog.gif)
+  ![Scared Dog](/assets/dogs/scared-dog.gif)
   <sub><b>me on my first interview</b></sub>
 
   </td>
@@ -139,12 +149,20 @@
   
   <td>
 
-  ![Surprised Dog](/assets/surprised-dog.gif)
+  ![Surprised Dog](/assets/dogs/surprised-dog.gif)
   <sub><b>seeing spaghetti code for the first time</b></sub>
 
   </td>
   </tr>
 </table>
+
+## :fish: A random koi fish for some reason
+
+<div align="center">
+
+  <img src="assets/koi.gif" width="256" alt="My koi" />
+
+</div>
 
 ## :globe_with_meridians: Connect With Me (I guess)
 
